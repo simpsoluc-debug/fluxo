@@ -1,1 +1,1 @@
-@tailwind base;@tailwind components;@tailwind utilities;body{background:#f8f9fc} .card{@apply bg-white border border-slate-200 rounded-2xl} .input{@apply w-full px-3 py-2.5 rounded-xl border border-slate-200 bg-white text-sm}
+@tailwind base;@tailwind components;@tailwind utilities;body{background:#020617;color:#e2e8f0} .input{width:100%;padding:0.75rem;border-radius:0.75rem;background:#020617;border:1px solid #1e293b;outline:none} .input:focus{border-color:#10b981} .card{background:rgba(15,23,42,0.6);border:1px solid #1e293b;border-radius:1rem;padding:1rem}
