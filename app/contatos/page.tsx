@@ -1,0 +1,1 @@
+'use client'; export default function C(){ return <div className='bg-white border-b px-8 py-5'>Fornecedores & Clientes</div> }

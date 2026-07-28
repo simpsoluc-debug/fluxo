@@ -1,0 +1,1 @@
+'use client'; export default function R(){ return <div className='bg-white border-b px-8 py-5'>Relatórios</div> }
